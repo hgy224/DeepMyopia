@@ -3,3 +3,5 @@ This repository is the official Pytorch implementation of the article titled "De
 To access the code, you will need a password for extracting the downloaded files. If you require the password, please feel free to contact the author (sapphire-blue@sjtu.edu.cn).
 
 The repository will be fully public once the paper is accepted.
+
+The password is 3Y&*vf$0p
